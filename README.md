@@ -13,3 +13,5 @@ My name is Jonas, I'm 15 years old and come from Germany, near Dortmund in North
 yea idk what I should write anymore :(<br>
 anyways, here is a little doge. Have a nice day! 🌴<br><br>
 <img src="https://i.redd.it/bai6g2gfj2241.png" align="center"></p>
+
+<p align="center"><a href="https://discord.com/users/421671659146313729"><img src="https://img.shields.io/badge/Discord-jonas__%239839-blueviolet?style=flat&logo=discord&logoColor=white&color=5865F2"></a> <a href="https://twitter.com/JonasOnSocials"><img src="https://img.shields.io/badge/Twitter-@JonasOnSocials-blueviolet?style=flat&logo=twitter&logoColor=white&color=1DA1F2"></a> <a href="https://twitch.tv/onejxnas"><img src="https://img.shields.io/badge/Twitch-onejxnas-blueviolet?style=flat&logo=twitch&logoColor=white&color=9146FF"></a></p>
