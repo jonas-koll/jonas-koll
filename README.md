@@ -16,5 +16,3 @@ anyways, here is a little doge. Have a nice day! 🌴<br><br>
 <p align="center"><a href="https://discord.com/users/421671659146313729" target="_blank"><img src="https://img.shields.io/badge/Discord-jonas__%239839-blueviolet?style=flat&logo=discord&logoColor=white&color=5865F2"></a> <a href="https://twitter.com/JonasOnSocials" target="_blank"><img src="https://img.shields.io/badge/Twitter-@JonasOnSocials-blueviolet?style=flat&logo=twitter&logoColor=white&color=1DA1F2"></a> <a href="https://twitch.tv/onejxnas" target="_blank"><img src="https://img.shields.io/badge/Twitch-onejxnas-blueviolet?style=flat&logo=twitch&logoColor=white&color=9146FF"></a></p><br><br>
 
 - 📫 You can reach me at Discord » jonas_#9839<br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/421671659146313729
-                            )](https://discord.com/users/421671659146313729)
