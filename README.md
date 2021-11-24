@@ -8,7 +8,7 @@ My name is Jonas, I'm 15 years old and come from Germany, near Dortmund in North
 - ⚡ Fun fact: I thought, that you "code" html for at least a half year haha<br><br>
 <p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jonas-koll&show_icons=true&theme=dracula&count_private=true&hide=contribs&hide_border=true&icon_color=#fff&include_all_commits=true"></a></p>
 <hr>
-<img src="https://github-profile-trophy.vercel.app/?username=jonas-koll&no-frame=true">
+<img src="https://github-profile-trophy.vercel.app/?username=jonas-koll&no-frame=true&no-bg=true">
 <hr>
 <p align="center">
 yea idk what I should write anymore :(<br>
