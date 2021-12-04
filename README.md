@@ -1,7 +1,7 @@
-<p align="center"><a href="#"><img width="125" src="https://i.imgur.com/nOD9kyu.png"></a></p>
+<p align="center"><a href="#"><img width="75" src="https://i.imgur.com/nOD9kyu.png"></a><br><b style="padding-top: -20%;">www.jonas-koll.de</b></p>
 
 ### Hi there 👋
-My name is Jonas, I'm 15 years old and come from Germany, near Dortmund in North Rhine Westphalia! 👨‍💻
+<p float="left">My name is Jonas, I'm 15 years old and come from Germany, near Dortmund in North Rhine Westphalia! 👨‍💻</p>
 <hr>
 - 🔭 I’m currently working on <a href="https://github.com/ReleviaDE">@ReleviaDE</a><br>
 - 🌱 I’m currently learning Python<br>
