@@ -1,4 +1,4 @@
-<p align="center"><img width="125" src="https://i.imgur.com/nOD9kyu.png"></p>
+<p align="center"><a href="#"><img width="125" src="https://i.imgur.com/nOD9kyu.png"></a></p>
 
 ### Hi there 👋
 My name is Jonas, I'm 15 years old and come from Germany, near Dortmund in North Rhine Westphalia! 👨‍💻
