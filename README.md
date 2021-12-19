@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="75" src="https://i.imgur.com/nOD9kyu.png"></a><br><b style="padding-top: -20%;">www.jonas-koll.de</b></p>
+<p align="center"><a href="#"><img width="75" src="https://i.imgur.com/nOD9kyu.png"></a></p>
 
 ### Hi there 👋
 <p float="left">My name is Jonas, I'm 15 years old and come from Germany, near Dortmund in North Rhine Westphalia! 👨‍💻</p>
