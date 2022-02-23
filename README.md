@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img width="75" src="https://i.imgur.com/nOD9kyu.png"></a></p>
 
 ### Hi there 👋
-<p float="left">My name is Jonas, I'm 16 years old and come from Germany, near Dortmund in North Rhine Westphalia! 👨‍💻</p>
+<p float="left">My name is Jonas, I'm 16 years old and come from Germany! 👨‍💻</p>
 <hr>
 - 🔭 I’m currently working on <a href="https://github.com/ReleviaDE">@ReleviaDE</a><br>
 - 🌱 I’m currently learning Python<br>
