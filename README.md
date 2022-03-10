@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning Python<br>
 - 🤔 I’m looking for help with Maven-Compiling sometimes 🥴🥴<br>
 - 💬 Ask me about some server stuff lol<br>
-- ⚡ Fun fact: I thought, that you "code" html for at least a half year haha<br><br>
-<p align="center">[——————————————————————————————]<br><br><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jonas-koll&show_icons=true&theme=dracula&count_private=true&hide=contribs&hide_border=true&icon_color=ff951c&include_all_commits=true"></a></p>
-<p align="center">[———————————↦ <a href="#"><img src="https://komarev.com/ghpvc/?username=jonas-koll&style=flat&color=C26488&label=👀+Views"></a> ↤———————————]</p>
+- ⚡ Fun fact: I hate centering <code>‹div›</code>'s in CSS :b<br><br>
+<p align="center">[——————————————————————————————]<br><br><a href="#"><img src="https://lanyard.cnrad.dev/api/421671659146313729"></a></p>
+<p align="center">[———————————↦ <a href="#"><img src="https://komarev.com/ghpvc/?username=jonas-koll&style=flat&color=1B1C1F&label=👀+Views"></a> ↤———————————]</p>
 <hr>
 <p align="center">
 yea idk what I should write anymore :(<br>
