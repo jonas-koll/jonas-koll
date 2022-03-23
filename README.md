@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Maven-Compiling sometimes 🥴🥴<br>
 - 💬 Ask me about some server stuff lol<br>
 - ⚡ Fun fact: I hate centering <code>‹div›</code>'s in CSS :b<br><br>
-<p align="center">[——————————————————————————————]<br><br><a href="#"><img src="https://lanyard.cnrad.dev/api/421671659146313729"></a></p>
+<p align="center">[——————————————————————————————]<br><br><a href="#"><img src="https://lanyard.cnrad.dev/api/421671659146313729?idleMessage=Hippity+Hoppity,+I'll+be+back+properly!+🦕"></a></p>
 <p align="center">[———————————↦ <a href="#"><img src="https://komarev.com/ghpvc/?username=jonas-koll&style=flat&color=1B1C1F&label=👀+Views"></a> ↤———————————]</p>
 <hr>
 <p align="center">
